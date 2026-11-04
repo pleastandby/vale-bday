@@ -21,3 +21,10 @@
 - [x] Starfield canvas particle engine (`CelestialBackground.tsx`).
 - [x] Oxlint verification passed with 0 errors and 0 warnings.
 - [x] Full production build verified with Vite 8 and TypeScript 7.
+
+## Phase 4: Production Deployment & Netlify Configuration (Completed)
+- [x] Created root and subfolder `netlify.toml` configurations.
+- [x] Configured SPA redirect rules (`_redirects` and `[[redirects]]`).
+- [x] Added immutable caching headers for static assets (`/assets/*`).
+- [x] Configured root `package.json` build delegation and `.gitignore`.
+- [x] Production build tested and verified for Netlify deployment.
