@@ -1,0 +1,12 @@
+{
+  "name": "vale-universe-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm --prefix Vale-bday run build",
+    "dev": "npm --prefix Vale-bday run dev",
+    "preview": "npm --prefix Vale-bday run preview",
+    "lint": "npm --prefix Vale-bday run lint"
+  }
+}
+
